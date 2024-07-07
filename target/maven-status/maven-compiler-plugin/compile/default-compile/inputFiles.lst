@@ -1,0 +1,8 @@
+/Users/andrey/JavaProj/kata114/src/main/java/jm/task/core/jdbc/Main.java
+/Users/andrey/JavaProj/kata114/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java
+/Users/andrey/JavaProj/kata114/src/main/java/jm/task/core/jdbc/dao/UserDaoJDBCImpl.java
+/Users/andrey/JavaProj/kata114/src/main/java/jm/task/core/jdbc/util/Util.java
+/Users/andrey/JavaProj/kata114/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java
+/Users/andrey/JavaProj/kata114/src/main/java/jm/task/core/jdbc/dao/UserDao.java
+/Users/andrey/JavaProj/kata114/src/main/java/jm/task/core/jdbc/service/UserService.java
+/Users/andrey/JavaProj/kata114/src/main/java/jm/task/core/jdbc/model/User.java
